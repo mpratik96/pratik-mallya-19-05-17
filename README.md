@@ -7,6 +7,6 @@ Run: $java map
 The size of the map is in integer format.
 
 Map takes key and value as data.
-Key is of integer datatype and value is String data type.
+Key is of integer datatype and value is String datatype.
 
 
