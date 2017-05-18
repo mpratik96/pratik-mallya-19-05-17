@@ -2,6 +2,7 @@
 Java code to map data in hashmap and serializably spill data on disk if map limit exceeds.
 
 Compile: $javac map.java
+
 Run: $java map
 
 The size of the map is in integer format.
